@@ -1,2 +1,2 @@
 # Test
-Esta es un sólo una página WEB.
+Es un sólo una simple página WEB.
